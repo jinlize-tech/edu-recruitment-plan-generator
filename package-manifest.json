@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-055",
+  "repository_name": "edu-recruitment-plan-generator",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-recruitment-plan-generator-v1.0.0.zip",
+  "sha256": "A530C7E019A1119DDACF1DB5BA0A918B8E73C75DB954BFE1D6CABE9263C70100",
+  "bytes": 4851,
+  "entries": [
+    "edu-recruitment-plan-generator/SKILL.md",
+    "edu-recruitment-plan-generator/references/DOMAIN_GUIDE.md",
+    "edu-recruitment-plan-generator/references/EXAMPLES.md",
+    "edu-recruitment-plan-generator/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:42:04.6594163+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

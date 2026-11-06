@@ -1,0 +1,24 @@
+{
+  "number": 69,
+  "product_id": "JLZ-EDU-SK-055",
+  "chinese_name": "招聘计划",
+  "english_name": "Recruitment Plan Generator",
+  "repository_name": "edu-recruitment-plan-generator",
+  "product_type": "Skill",
+  "category": "06 人力组织中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-recruitment-plan-generator-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "招聘岗位、人数、预算、渠道、到岗时间、现有人力与业务计划",
+  "main_output": "招聘计划、渠道优先级、时间表、面试流程、预算和风险清单",
+  "package_entries": [
+    "edu-recruitment-plan-generator/SKILL.md",
+    "edu-recruitment-plan-generator/references/DOMAIN_GUIDE.md",
+    "edu-recruitment-plan-generator/references/EXAMPLES.md",
+    "edu-recruitment-plan-generator/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
