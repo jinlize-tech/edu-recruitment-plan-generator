@@ -6,19 +6,38 @@
   "repository_name": "edu-recruitment-plan-generator",
   "product_type": "Skill",
   "category": "06 人力组织中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-recruitment-plan-generator-v1.0.0.zip",
+  "baseline_commit": "e4cb9f92838b0d04a12126c1d100134961404650",
+  "package_path": "dist/edu-recruitment-plan-generator-v1.0.1.zip",
+  "previous_package_path": "dist/edu-recruitment-plan-generator-v1.0.0.zip",
+  "previous_package_sha256": "A530C7E019A1119DDACF1DB5BA0A918B8E73C75DB954BFE1D6CABE9263C70100",
   "calculator": false,
   "core_input": "招聘岗位、人数、预算、渠道、到岗时间、现有人力与业务计划",
   "main_output": "招聘计划、渠道优先级、时间表、面试流程、预算和风险清单",
+  "main_output_fields": [
+    "招聘计划",
+    "渠道优先级",
+    "时间表",
+    "面试流程",
+    "预算和风险清单"
+  ],
   "package_entries": [
     "edu-recruitment-plan-generator/SKILL.md",
     "edu-recruitment-plan-generator/references/DOMAIN_GUIDE.md",
     "edu-recruitment-plan-generator/references/EXAMPLES.md",
-    "edu-recruitment-plan-generator/templates/OUTPUT_TEMPLATE.md"
+    "edu-recruitment-plan-generator/templates/OUTPUT_TEMPLATE.md",
+    "edu-recruitment-plan-generator/README.md",
+    "edu-recruitment-plan-generator/USAGE.md",
+    "edu-recruitment-plan-generator/LICENSE",
+    "edu-recruitment-plan-generator/THIRD_PARTY_NOTICES.md",
+    "edu-recruitment-plan-generator/scripts/validate_input.js"
   ]
 }
